@@ -1,0 +1,89 @@
+
+## Objectives 
+In this stage, we figure out there are some drawbacks of Domain.com and realEstate.com, and they cannot have online inspection and they cannot track the appetite of potential clients and change the promotion method to attract them. Thus, we set up the following objectives to build a system to fix those problems. 
+
+The objectives are related to the aims of the whole project as following:
+	
+Collect related messages from the agents and associated tenants’ information, and classify the tenants into different groups 
+	Analysis the characteristics of the potential tenants in Sydney 
+	Building a proper system to send the effective information to them 
+	Identify the benefits brought to agents with the help of the tools and systems built in this research
+	Validate and deploy the models and systems 
+	Realize the virtual experience in inspection online 
+
+## Expected outcomes
+There are many benefits related to the improvements in terms of cost saving for the advertisements and effectiveness of the promotion of property agents. Firstly, nowadays, property agents pay more attention on how to promote the properties to potential clients with the use of Internet advertisement through the data analysis. But nowadays, in Australia, most agents only use Domain.com and realestate.com to find properties. From this study, our aim is to analysis the data from different social media and tenants’ information to summarize the features and internet search habits of the tenants. Secondly, after analysing the tenants’ habits, we build a database which includes the materials and targets of the projects. 
+
+* Collect data from different kinds of social media, like Facebook, Twitter, Domain.com users and RealEstate.com users. 
+
+* Tracking the habitats of Internet searching to have a good command of potential clients’ interests
+* People who visits the website can have access to a virtual reality of each property
+
+
+# Background 
+
+Larsen et al. (2007) investigate how the consumers found their real estate agent, apart from 30.9% from relatives and 20.5% from friends, even though there are more than 73% households is able to access the Internet and gain the information on website, but there are 2.9% from the Internet and less than 0.1% from yellow paper. But recently the situation changed, Series & Science (2019) have a research to evaluate the effectiveness of advertisement and marketing tools in the real estate agent in Krakow. They use a cross-sectional analysis to evaluate the performance of marketing methods and collect empirical data from promotion advertisements websites, social media and Internet methods like virtual reality. Mcdonagh et al. (2006) indicate that over 80% of tenants and landlords have access to Internet to buying, selling or renting properties, since the large cost of expense from traditional newspaper advertisements or the TV advertisements. In addition, with the development of the data science, website can track the target audience who want to rent apartment and send them more information about rental properties near them. The results indicate that the highest level of effectiveness to influence clients is advertisements websites and online advertising and the lowest level of advertisements is radio and television advertisement. Thus, the new technology is able to connect clients and agents in a more effective way.
+
+
+In Sydney, Domain.com and RealEstate play important role in Australian properties’ markets. People will use these two applications to find the suitable properties. But there are two drawbacks, one is that these two applications only used by people who enter their official websites or platforms on mobile phones, and they do not track the characteristic of the potential tenant. Another one is if you want to arrange an inspection for a property, you must send the request to the agents on the website. You cannot watch video or use Virtual reality technology to have a virtual experience to the apartments. 
+
+Hendel, Nevo & Ortalo-magné (2007) check the dynamic relationship between two networks, namely FSBO (For-Sale-By-Owner) and MLS (Multiple listing service). FSBO has a higher level of market share than MLS, since different structure in the industry of brokerage industry and marketing methods. Other studies indicate that MLS becomes more publicly available(Wi n.d.).The reason why MLS has more advantages than the other one is that they have multiple listing services. Furthermore, Ayodele & Babajide (2015) investigate the use of the social media for the properties transaction and use 137 surveys and the tested social media ranges from Facebook, Youtube and Twitter. The results of this paper show that social media has gained the popularity to bring the services and the properties promotion to the potential clients. There are many advantages of social media to promote the properties as following: social media is able to build an effective way of communications between agents and clients with lower level of expense(Measuring 2010). However, there are some drawbacks of the social media like lacking of licensed professional. Yuan et al. (2013) also think that use of internet technology does not have a positive impact on homebuyers since the search results contain too many flexible results. The system which combines user-oriented function and case-based function improves time effectiveness for the potential clients. Shaibu & Taiwo (2015) indicate that the influence from modern marketing concept in which consumers of buyers’ behaviour and the data science technology is included(Janet n.d.). 
+
+In this case, we collect data of Internet browse appetite by tracking the search from potential tenants with the platform, like Facebook or Twitter. Then this research will evaluate the effectiveness of social media to the properties.  
+
+# Project Scenario
+## Project Significance 
+By tracking the internet appetite search, our new system will have a good understanding of what types of properties the potential tenants like. For the tenants, it is time saving to find a good place to live in. For the agents, the systems help tenants and properties to match each other. Agents will change the situation. Previously, lease property managers will open the house or the apartments every Saturday morning and wait for the potential tenants to visit the properties. With the new system, the rate of achievements to lease the properties will increase, people will be matched with proper price range and appreciate environment and even furniture styles instead of listing all the interested location and visiting each of them. 
+
+This new system also reduces the communication costs, especially for some overseas students. The new system encourages potential tenants to have a virtual experience in the properties which they are interested in on the website. In each property on the system, there is a virtual reality video to help tenants have a good command of what is look like in each room and environments surrounding. If they like the apartments, they can submit the application form, Students ID and bank statement online. It is quite convenience for students from overseas countries. As long as they arrive Sydney, they will have an ideal place to live in.
+
+## Project innovation 
+The innovation of this system is mainly based on two aspects. 
+	Applying the hi-tech in the system, like virtual reality. This innovation is never used in Australian property management website. 
+	The first case to help the overseas people or people not in Sydney to have an inspection to the properties. 
+	This system first time to use tracking data technology to match the appetite of their potential interests 
+
+## Action plan 
+In this stage, we consider the objectives and expected applications in the project. It is quite important to define the scope of the tasks. This project can be divided into four different tasks as following.
+
+### Research on the current management tools 
+<br>
+The first stage is to do some research related to the project. In this stage, the advantages and drawbacks of current tools will be listed. Then the scopes will be defined in this stage, the functions In Scope like purchasing hardware, construct network, setup database and install task have fully described. In this stage, the survey will be taken into consideration, and with survey the information of clients is collected. 
+
+### Build models to solve the problems 
+In this stage, there are two main tasks. One is to make assumption of the project, including the stakeholders and their responsibilities. Other task is an overview to solution to the project, one is to realize the virtual reality to have an online inspection, and use big data science to track the browse appetite to summarize the features of the potential clients. In this part, the deep learning model can be established. Firstly, identifying the relevant data and do the data cleaning task to get well-prepared for the models. In this stage, we can use 3 years data as training data and half year data to test the validation of model.
+### Develop the system 
+In this stage, developing a system which can help potential tenants to do the virtual inspection by the help of models in the previous stage. Once the models are built in the previous stage, there is an expectation to provide an application or website, and potential tenants can login as users. This system will start after the database built and the software and hardware has been installed 
+### Test and modify the system 
+The last stage is to test and modify the models and systems. In this part, we may set a demo to ask user to have experience the system for a short period of time, and gain some feedback to modify the system. 
+
+## Timelines 
+This project will be finished within a year in the following four different stages. 
+
+* Research on the current management tools ——2 months
+
+*   Build models to solve the problems ——7 months
+*   Develop the system ——2 months 
+* Test and modify the system ——1 month
+
+# Budget 
+
+The budget below in the table shows the costs in different parts, like venue, equipment, salary, allowance and contingencies. The main parts is blue and the details are shown as following.
+
+# Personal 
+
+This part describes details about the employees who is required to fulfil the project and the contribution is divided as following:
+* Principal investigator
+>The principal investigators is the person who always make the final decisions in each step and in charge of the important resources in the whole project. 
+* Research assistant 
+>After collection the effective data, the research assistants will help data scientists to do some classifiers or the statistical tasks about the data. 
+* Data scientists
+>They will build the data models and predict the appetite of the potential clients.
+* Systems and models developer
+>System and model developers will use the results from data scientists to realize the shared target in the project. 
+* Marketing consultant 
+>The marketing consultant is in charge of advertisement promotion in different sorts of media. 
+
+
+# References 
+
